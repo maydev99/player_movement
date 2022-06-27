@@ -6,4 +6,4 @@ This project is an experiment with different player control inputs using Flame E
 The first System is a quadrant system:
 Screen Quadrants Below when Tapped
 
-![Image](https://github.com/maydev99/Aprikot/blob/master/aprikot_tripple_shot.png)
+![Image](https://github.com/maydev99/player_movement/blob/Quadrant_Walk_Jump/android/Quadrant%20System.png)
